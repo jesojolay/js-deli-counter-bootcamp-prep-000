@@ -28,4 +28,4 @@ function currentLine(katzDeliLine) {
   }
   return wholeLine;
 }
-console.log(currentLine(katzDeliLine));
+
